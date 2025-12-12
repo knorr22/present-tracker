@@ -1,25 +1,25 @@
-# Geschenke Planer
+# Present Tracker
 
-Eine einfache Web-App zum Planen von Geschenken für Weihnachten und Geburtstage.
+A simple web app to plan gifts for Christmas and birthdays.
 
-## Technologien
+## Technologies
 - React (via CDN)
 - Tailwind CSS (via CDN)
-- LocalStorage für Datenspeicherung
+- LocalStorage for data persistence
 
-## Deployment auf GitHub Pages
+## Deployment on GitHub Pages
 
-1. Erstelle ein neues Repository auf GitHub (z.B. `geschenke-planer`).
-2. Führe die folgenden Befehle in deinem Terminal aus:
+1. Create a new repository on GitHub (e.g. `geschenke-planer`).
+2. Run the following commands in your terminal:
 
 ```bash
-git remote add origin https://github.com/DEIN_USERNAME/geschenke-planer.git
+git remote add origin https://github.com/knorr22/geschenke-planer.git
 git branch -M main
 git push -u origin main
 ```
 
-3. Gehe in deinem GitHub Repository zu **Settings** > **Pages**.
-4. Wähle unter **Source** den Branch `main` und folder `/ (root)` aus.
-5. Klicke auf **Save**.
+3. Go to **Settings** > **Pages** in your GitHub repository.
+4. Under **Source**, select the branch `main` and folder `/ (root)`.
+5. Click **Save**.
 
-Deine App ist nun unter `https://DEIN_USERNAME.github.io/geschenke-planer/` erreichbar.
+Your app is now accessible at `https://knorr22.github.io/geschenke-planer/`.
